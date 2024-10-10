@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Gestión documental y de clientes:
+    <markdownProperty name="text" category="detail"><![CDATA[**Gestión documental y de clientes:**
 
 - Creación y mantenimiento de una ficha para cada cliente, donde se especifique el servicio solicitado y el estado del proceso.
 
@@ -15,28 +15,28 @@
 - Provisión de fondos y generación de facturas. Inicialmente, se realiza una estimación y, al finalizar el proceso, se genera una factura detallada.
 
 
-Facturación y gestión de pagos:
+**Facturación y gestión de pagos:**
 
 - Automatización del proceso de facturación, que permita la generación de una provisión inicial y la conversión en una factura final.
 
 - Registro y control de pagos asociados a cada cliente, facilitando el desglose de cada gasto en una interfaz centralizada.
 
 
-Comunicación con socios y clientes:
+**Comunicación con socios y clientes:**
 
 - Integración de un sistema de mensajería o notificaciones para mejorar la comunicación con clientes y socios, permitiendo enviar y recibir documentos de forma segura.
 
 - Implementación de un sistema de gestión de tareas o un calendario digital que remplace la agenda física, para gestionar citas y plazos con recordatorios automáticos.
 
 
-Copia de seguridad y soporte técnico:
+**Copia de seguridad y soporte técnico:**
 
 - Configuración de copias de seguridad automáticas para todos los documentos y datos relevantes.
 
 - Mantenimiento de la sincronización entre los ordenadores de la oficina y acceso remoto seguro para la gestión y actualización de datos, sin interrupciones causadas por actualizaciones de sistema.
 
 
-Cumplimiento normativo y protección de datos:
+**Cumplimiento normativo y protección de datos:**
 
 - Automatización de los procesos de protección de datos, garantizando el cumplimiento normativo con el uso de tecnología adecuada.
 
