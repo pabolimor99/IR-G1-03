@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="62KcD8YTkbTe" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[La gestoría enfrenta diversos problemas operativos relacionados con la falta de un sistema eficiente para gestionar sus procesos administrativos, la comunicación con los clientes, y la gestión de documentos. El uso de herramientas obsoletas y métodos manuales dificulta la planificación, seguimiento de trámites, y cumplimiento normativo, afectando la productividad y la calidad del servicio que se ofrece. 
+
+**Principales desafíos en el dominio de la gestoría**
+
+* **Atención al Cliente y Gestión de Documentos:**
+El intercambio de documentos con los clientes y socios se realiza a través de plataformas como WhatsApp y correo electrónico, lo que ocasiona la pérdida de información y la falta de control sobre los documentos. Además, la gestión documental se realiza en carpetas físicas o no centralizadas, lo que complica la organización y acceso a la información. 
+
+* **Sistemas Financieros Anticuados:**
+Los sistemas de contabilidad, nómina y facturación que se utilizan están desactualizados y no están integrados, lo que genera problemas de eficiencia. A menudo, los presupuestos y los gastos se registran en documentos de Word, lo cual aumenta el riesgo de errores y dificulta la actualización de datos. 
+
+* **Protección de Datos (GDPR):**
+Actualmente no se garantiza la adecuada protección de los datos de los clientes. El manejo de la información y las copias de seguridad no se realiza de forma segura ni automática, lo que pone en riesgo la confidencialidad y el cumplimiento del GDPR. 
+
+* **Comunicación con Organismos y Clientes:**
+La gestoría enfrenta dificultades al comunicarse con organismos públicos, como Hacienda, debido a la falta de un sistema integrado que centralice la información y agilice los trámites. Además, los clientes no tienen acceso a un sistema que les permita hacer seguimiento a sus trámites, lo que genera incertidumbre y reduce la eficiencia del proceso. 
+  
+* **Control de Plazos y Gestión de Tareas:**
+El control de plazos y la planificación de tareas se lleva a cabo mediante una agenda física, lo que dificulta el seguimiento de trámites complejos y aumenta el riesgo de omisiones y duplicaciones. 
+
+* **Soporte Técnico y Actualización de Datos:**
+La gestoría no cuenta con soporte técnico para resolver problemas recurrentes que afectan tanto el software como el hardware, lo que provoca retrasos y errores en la gestión diaria. Además, no existe un sistema automatizado de actualización de datos y copias de seguridad, lo que aumenta el riesgo de pérdida de información crítica. 
+
+* **Falta de Página Web de Servicios:**
+Actualmente, la gestoría no dispone de una página web que permita a los clientes conocer todos los servicios ofrecidos, lo que limita la visibilidad de la oferta de la gestoría y la comunicación eficiente con los usuarios. 
+  
+El software a desarrollar resolverá los principales problemas de la gestoría, mejorando la gestión documental, la protección de datos y la comunicación tanto con clientes como con organismos públicos. Además, automatizará procesos clave, reducirá errores y duplicaciones, y optimizará la planificación y el seguimiento de trámites, permitiendo a la gestoría ofrecer un servicio más eficiente y seguro. ]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

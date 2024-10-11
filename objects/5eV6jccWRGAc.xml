@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5eV6jccWRGAc" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[En cuanto al software utilizado en la gestoría, destacan varios programas específicos para la gestión del negocio. Excluyendo las herramientas básicas de comunicación como **el correo electrónico** y **WhatsApp**, los programas más relevantes son aquellos dedicados a la **contabilidad**, la **gestión de nóminas** y la **facturación**. Estos dos últimos están vinculados entre sí, lo que facilita la integración de los procesos financieros y administrativos. 
+
+No obstante, aunque estos programas son de pago, presentan limitaciones importantes. Se trata de software relativamente básico que, a pesar de cumplir con las necesidades esenciales de la gestoría, deja mucho que desear en cuanto a funcionalidades avanzadas y flexibilidad. Esto ocasiona que algunos procesos se vuelvan más lentos o tediosos de lo que podrían ser con herramientas más completas. ]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

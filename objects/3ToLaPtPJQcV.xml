@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3ToLaPtPJQcV" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[* **Actividad:** cualquier tipo de trámite o gestión que la gestoría debe realizar para un cliente, como escrituras, herencias, reparto de bienes, y presentación de impuestos. 
+  
+* **Gestoría:** organización que ofrece servicios de asesoramiento y gestión en temas legales, fiscales y de bienes, atendiendo tanto a particulares como a empresas. 
+  
+* **Trámite:** proceso o conjunto de procedimientos administrativos necesarios para llevar a cabo una gestión específica, como el registro de propiedades, gestión de impuestos o notificaciones legales. 
+  
+* **Formulario de Ingreso de Cliente:** documento que debe ser completado por los nuevos clientes de la gestoría, proporcionando toda la información necesaria para la creación de su expediente. 
+  
+* **Formulario de Provisión de Fondos:** documento que detalla los costes estimados de un trámite o gestión, y que se utiliza para solicitar fondos iniciales al cliente antes de realizar la gestión. 
+  
+* **Socios:** miembros de la gestoría que contribuyen al negocio y reciben una comisión por los servicios prestados, tales como servicios de notaría y abogacía. 
+  
+* **Clientes:** personas físicas o jurídicas que contratan los servicios de la gestoría para realizar gestiones administrativas, fiscales o legales. 
+  
+* **Notario:** profesional encargado de la gestión y validación de documentos legales, así como de algunos servicios legales más complejos que realiza en asociación con la gestoría. 
+  
+* **Reunión:** encuentros entre el personal de la gestoría o con socios, para tratar temas como la entrada de nuevos clientes, actualización de procesos, o revisión de trámites pendientes. 
+  
+* **Tesorero/Responsable Financiero:** persona encargada de gestionar el presupuesto y llevar el control financiero de la gestoría, incluyendo la facturación, control de pagos y provisión de fondos. 
+  
+* **Usuario:** cualquier persona que interactúa con el sistema, ya sea un cliente, socio, o empleado de la gestoría. 
+  
+* **Sistema de Gestión de Documentos:** plataforma digital que permite almacenar, organizar y acceder a los documentos relevantes para cada trámite de la gestoría, garantizando una mayor eficiencia y trazabilidad. 
+  
+* **Software de Facturación y Contabilidad:** herramienta que permite registrar las facturas generadas, hacer un seguimiento de los pagos, y enlazar con el sistema de contabilidad para facilitar la gestión financiera. 
+  
+* **Copia de Seguridad Automática:** función del sistema que permite realizar copias de seguridad de todos los datos de la gestoría de forma periódica, asegurando la protección y disponibilidad de la información. ]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
