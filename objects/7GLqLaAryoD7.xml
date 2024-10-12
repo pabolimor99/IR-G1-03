@@ -6,7 +6,9 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[La gestoría MAC Gestiones realiza gran parte de su trabajo mediante plataformas como WhatsApp y correo electrónico, lo que genera problemas en la gestión documental y ralentiza procesos clave como la facturación y la provisión de fondos. Además, no se garantiza adecuadamente la protección de datos según el GDPR. ]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[Este proyecto se centra en el desarrollo de un sistema integral de gestión para la gestoría **MAC Gestiones**, con especial enfoque en la optimización y digitalización de su rama inmobiliaria. La plataforma propuesta abarcará la gestión de la documentación, comunicación y facturación, proporcionando funcionalidades que ayuden a mejorar los procesos actuales, agilizar el flujo de trabajo, y asegurar el cumplimiento con el Reglamento General de Protección de Datos (GDPR). 
+
+El sistema abarcará principalmente los procesos de la rama inmobiliaria de MAC Gestiones, con la posibilidad de expandirse a otros servicios de la gestoría. La plataforma será accesible para los empleados y socios a través de una interfaz intuitiva y contará con un sistema de copias de seguridad automatizado para proteger los datos y documentos clave.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
