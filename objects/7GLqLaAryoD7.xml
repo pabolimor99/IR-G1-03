@@ -6,11 +6,11 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[El proyecto busca desarrollar una plataforma digital para **MAC Gestiones**, enfocada en optimizar la rama inmobiliaria. La solución propuesta cubrirá los siguientes aspectos:
+    <markdownProperty name="text" category="detail"><![CDATA[El proyecto busca desarrollar un portal que integre los servicios de una inmobiliaria, llamada **MAC Gestiones**, que cuenta con una página desarrollada y una gestoría, que actualmente no implementa página web. La solución propuesta cubrirá los siguientes aspectos:
 
 1) **Gestión Documental y Facturación**: Automatización del proceso de facturación, provisión de fondos, y almacenamiento seguro de documentos para reducir la dependencia de medios como el correo electrónico y WhatsApp.
 
-2) **Portal Inmobiliario**: Creación de un portal donde se pueda gestionar la cartera de inmuebles, incluyendo la subida de fotos, la gestión de la documentación asociada y la interacción con potenciales compradores.
+2) **Portal Unificado:** Creación de un portal donde se muestren los servicios de la inmobiliaria y la gestoría. Para ello, se mejorará la página de la inmobiliaria agilizando procesos de forma digital, y se desarrollará desde cero la página de la inmobiliaria.
 
 3) **Optimización de Procesos Administrativos**: Mejora en la gestión de datos y en la comunicación con clientes y socios mediante un sistema centralizado que permita registrar y seguir el estado de las gestiones.
 
