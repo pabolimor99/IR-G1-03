@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="34ZiEZ4Rqm4A" classes="business-requirement business-objective" acceptedChildren="business-objective" acceptedParents=":Proteus-any">
+<object id="6daFipeiosvJ" classes="business-requirement business-objective" acceptedChildren="business-objective" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BOBJ-]]></prefix><number>003</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Facilitar la Facturación y Gestión Financiera]]></stringProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BOBJ-]]></prefix><number>009</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Facilitar la Facturación y Gestión Financiera]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
