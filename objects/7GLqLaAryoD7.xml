@@ -6,9 +6,17 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Este proyecto se centra en el desarrollo de un sistema integral de gestión para la gestoría **MAC Gestiones**, con especial enfoque en la optimización y digitalización de su rama inmobiliaria. La plataforma propuesta abarcará la gestión de la documentación, comunicación y facturación, proporcionando funcionalidades que ayuden a mejorar los procesos actuales, agilizar el flujo de trabajo, y asegurar el cumplimiento con el Reglamento General de Protección de Datos (GDPR). 
+    <markdownProperty name="text" category="detail"><![CDATA[El proyecto busca desarrollar una plataforma digital para **MAC Gestiones**, enfocada en optimizar la rama inmobiliaria. La solución propuesta cubrirá los siguientes aspectos:
 
-El sistema abarcará principalmente los procesos de la rama inmobiliaria de MAC Gestiones, con la posibilidad de expandirse a otros servicios de la gestoría. La plataforma será accesible para los empleados y socios a través de una interfaz intuitiva y contará con un sistema de copias de seguridad automatizado para proteger los datos y documentos clave.]]></markdownProperty>
+1) **Gestión Documental y Facturación**: Automatización del proceso de facturación, provisión de fondos, y almacenamiento seguro de documentos para reducir la dependencia de medios como el correo electrónico y WhatsApp.
+
+2) **Portal Inmobiliario**: Creación de un portal donde se pueda gestionar la cartera de inmuebles, incluyendo la subida de fotos, la gestión de la documentación asociada y la interacción con potenciales compradores.
+
+3) **Optimización de Procesos Administrativos**: Mejora en la gestión de datos y en la comunicación con clientes y socios mediante un sistema centralizado que permita registrar y seguir el estado de las gestiones.
+
+4) **Cumplimiento con Normativas de Protección de Datos**: Aseguramiento del cumplimiento de la normativa GDPR a través de prácticas de manejo de datos más seguras y con copias de seguridad automatizadas.
+
+Esta plataforma se orientará a la digitalización y mejora de procesos actuales, permitiendo un control centralizado sobre las operaciones diarias y facilitando el seguimiento de las actividades relacionadas con la gestión inmobiliaria de MAC Gestiones.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
