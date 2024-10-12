@@ -8,8 +8,15 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <timeProperty name="time" category="detail">21:30:00</timeProperty>
     <stringProperty name="place" category="detail"><![CDATA[Videollamada]]></stringProperty>
-    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="results" category="results"><![CDATA[]]></markdownProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="5HvgcvoKbZmU" traceType=":Proteus-information-source"/>
+      <trace target="7SsvLRpVzRpY" traceType=":Proteus-information-source"/>
+      <trace target="32295XVMhc7C" traceType=":Proteus-information-source"/>
+      <trace target="8L6SvErPymvc" traceType=":Proteus-information-source"/>
+      <trace target="6deXN8poPxvX" traceType=":Proteus-information-source"/>
+      <trace target="6QS5RJJAMmTg" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[En esta reunión con el cliente, realizamos un acercamiento inicial a su negocio, conociendo sus participantes, clientes y a rasgos generales sus procesos de negocio. A su vez, nos enfocamos en conocer los problemas principales del cliente y cómo le gustaría solucionarlos.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
