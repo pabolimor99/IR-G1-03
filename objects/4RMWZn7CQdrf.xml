@@ -2,12 +2,12 @@
 <object id="4RMWZn7CQdrf" classes="business-requirement weakness" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[WEAK-]]></prefix><number>001</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Weakness]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Duplicación de datos y procesos manuales]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[**Duplicación de datos y procesos manuales:** Existe una duplicación de datos debido a la necesidad de introducir información manualmente en diferentes sistemas. Esto genera ineficiencia y riesgo de errores al tener que gestionar la misma información varias veces. ]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[ Existe una duplicación de datos debido a la necesidad de introducir información manualmente en diferentes sistemas. Esto genera ineficiencia y riesgo de errores al tener que gestionar la misma información varias veces. ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

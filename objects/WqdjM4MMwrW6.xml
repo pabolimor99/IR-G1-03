@@ -2,12 +2,12 @@
 <object id="WqdjM4MMwrW6" classes="business-requirement weakness" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[WEAK-]]></prefix><number>005</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Weakness]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Falta de automatización en copias de seguridad]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[**Falta de automatización en copias de seguridad:** El proceso de realizar copias de seguridad es engorroso y no está automatizado, lo que supone un riesgo en caso de pérdida de datos. Aunque los ordenadores están conectados en red, las actualizaciones de Windows a menudo desincronizan los equipos, afectando la continuidad del trabajo. ]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[ El proceso de realizar copias de seguridad es engorroso y no está automatizado, lo que supone un riesgo en caso de pérdida de datos. Aunque los ordenadores están conectados en red, las actualizaciones de Windows a menudo desincronizan los equipos, afectando la continuidad del trabajo. ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
