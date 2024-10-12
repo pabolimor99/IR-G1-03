@@ -2,7 +2,7 @@
 <object id="5fq2xT3EHrqn" classes="business-requirement business-objective" acceptedChildren="business-objective" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BOBJ-]]></prefix><number>006</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[ Digitalizar la Gestión Inmobiliaria]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Agilizar la Gestión Inmobiliaria]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
