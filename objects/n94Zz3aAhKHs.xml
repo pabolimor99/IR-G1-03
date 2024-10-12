@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[La gestoría busca **optimizar y digitalizar sus procesos** para reducir la carga manual y los problemas de flujo de trabajo, específicamente en las áreas de gestión de documentos, facturación, comunicación y copias de seguridad. Los objetivos son:
+    <markdownProperty name="text" category="detail"><![CDATA[El cliente busca **optimizar, digitalizar y unificar** sus procesos en un único portal, que permita ofrecer de manera integrada los servicios de la gestoría y de la inmobiliaria.
  
 
  - Mejorar la eficiencia en la gestión de clientes y documentos.

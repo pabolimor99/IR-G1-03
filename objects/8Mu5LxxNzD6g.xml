@@ -2,7 +2,7 @@
 <object id="8Mu5LxxNzD6g" classes="business-requirement weakness" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[WEAK-]]></prefix><number>004</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Problemas con la actualización de datos y programas anticuados]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Flexibilidad de los programas actuales]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
