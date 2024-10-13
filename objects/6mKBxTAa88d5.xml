@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Nuestro cliente, **MAC Gestiones**, es una empresa situada en Puertollano, dedicada a la venta de inmuebles y a ofrecer servicios de gestoría.
+    <markdownProperty name="text" category="detail"><![CDATA[Nuestro cliente, **MAC Gestiones**, es una empresa situada en Puerto Serrano, dedicada a la venta de inmuebles y a ofrecer servicios de gestoría.
 
 En cuanto a la gestoría, actualmente disponen de una oficina en la que ofrecen sus servicios de forma presencial.
 
