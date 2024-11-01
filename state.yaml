@@ -50,6 +50,7 @@ expanded_objects:
   5DiogTajmtni: true
   5HvgcvoKbZmU: true
   5M7xW9nhn9ii: true
+  5PV3iNcJLQGh: true
   5QzWhVUYLFDz: true
   5Ram3spvCn3T: true
   5UujXycTG6mp: true
@@ -75,6 +76,8 @@ expanded_objects:
   6deXN8poPxvX: true
   6dgyk8nBCrN3: true
   6eLr3oHFsSyB: false
+  6f7rTQF6kky9: false
+  6fuPRhsFT274: true
   6inB9HZDFX8i: true
   6iozcTzMjDPS: true
   6mKBxTAa88d5: false
@@ -95,6 +98,7 @@ expanded_objects:
   7Gr6GeahP3wo: true
   7HbFfySLhQCT: true
   7QYhH9ieEmVo: true
+  7RArPn8xNxc9: false
   7SsvLRpVzRpY: true
   7VEen7FJ9UPJ: true
   7VSmnLCpt76Z: true
@@ -140,7 +144,9 @@ expanded_objects:
   sJLwoowGLDrw: false
   uwzWvpbsYE9b: false
   zcVz5tYAcuvm: true
+opened_views:
+- default
 selected_document: ers
 selected_objects:
-  ers: 73NiADYmcGLs
+  ers: 6fuPRhsFT274
 selected_view: default
