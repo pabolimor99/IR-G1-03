@@ -2,7 +2,7 @@
 <object id="5GMMHUDF3B4E" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[ En concreto, su dirección, precio, fotos, Habitaciones, superficie, estado general, vistas, antigüedad, consumo, salones, cuartos de baño, plazas de garaje, terraza, balcones, trasteros, tipo de suelo, techo, amueblado, climatización.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[ En concreto, su dirección, precio, fotos, Habitaciones, superficie, cuartos de baño, plazas de garaje, amueblado.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
