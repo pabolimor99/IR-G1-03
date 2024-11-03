@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="8ep3LYees4Gc" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Nombre, DNI, fecha de nacimiento, dirección, correo electrónico, número de teléfono y una contraseña. Además de los documentos relevantes para la gestoría.]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Datos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[- Nombre
+- DNI
+- Fecha de nacimiento
+- Dirección
+- Correo electrónico 
+- Número de teléfono
+- Contraseña
+- Documentos relevantes]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
