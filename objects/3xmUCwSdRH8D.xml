@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="6gmoVf29iPTf" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+<object id="3xmUCwSdRH8D" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Casos de Uso Resumidos]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
-    <child id="6hxSzGJFnifZ"/>
-    <child id="6P7J8J7rucws"/>
-    <child id="4Lt4hXYwKEEo"/>
-    <child id="N4HkrB2gAsz5"/>
+    <child id="3p3aeNpk6DbW"/>
+    <child id="3SX8xg4xYjBA"/>
+    <child id="5Xam4VX7JnEb"/>
+    <child id="5uyDXzMLCBNT"/>
   </children>
 </object>
