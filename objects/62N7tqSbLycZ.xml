@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="5qj4xFJCx63b" classes="software-requirement information-requirement" acceptedChildren="specific-data" acceptedParents=":Proteus-any">
+<object id="62N7tqSbLycZ" classes="software-requirement information-requirement" acceptedChildren="specific-data" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[RQI-]]></prefix><number>001</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Información sobre trámites]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-10-29</dateProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[RQI-]]></prefix><number>007</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Información sobre documentos firmados]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-23</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá almacenar la información correspondiente a  los trámites de los tipos de escritura gestionados por la gestoría.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá almacenar los documentos completos entregados por los clientes para realizar los trámites.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
-      <trace target="6fuPRhsFT274" traceType=":Proteus-dependency"/>
+      <trace target="7RArPn8xNxc9" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
-    <child id="4tXXY2BTcEzy"/>
+    <child id="3tdQ9D72sHRm"/>
   </children>
 </object>
