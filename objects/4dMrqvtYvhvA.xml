@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4dMrqvtYvhvA" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Meeting]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-11-23</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <timeProperty name="time" category="detail">13:00:00</timeProperty>
+    <stringProperty name="place" category="detail"><![CDATA[Videollamada]]></stringProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="5HvgcvoKbZmU" traceType=":Proteus-information-source"/>
+      <trace target="7SsvLRpVzRpY" traceType=":Proteus-information-source"/>
+      <trace target="32295XVMhc7C" traceType=":Proteus-information-source"/>
+      <trace target="8L6SvErPymvc" traceType=":Proteus-information-source"/>
+      <trace target="6deXN8poPxvX" traceType=":Proteus-information-source"/>
+      <trace target="6QS5RJJAMmTg" traceType=":Proteus-information-source"/>
+      <trace target="4BvJjxiJourk" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[En esta reunión con el cliente, principalmente explicó que es lo que hace más detalladamente, mostrándonos documentos generados actualmente con su empresa y como le gustaría que fueran los que genere el nuevo sistema de la gestoría.
+
+Por otra parte en cuanto a la inmobiliaria dió a conocer que es lo que busca y también la reestructuración de su página web.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
