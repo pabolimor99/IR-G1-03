@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4S3xP7UBArvw" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[En los diagramas anteriores encontramos las siguientes entidades:
+
+- **Cliente**: entidad que representa cada uno de los clientes registrados en el sistema.  Contiene la información del nombre, DNI/NIE, fecha de nacimiento, dirección, correo electrónico, tléfono, contraseña y documentos relevantes
+
+- **Administrativo**: entidad que representa cada uno de los administrativos existentes en el sitema. Contiene la información del nombre y la contraseña.
+
+- **Trámite**: entidad que representa cada uno de los trámites pertenecientes a cada uno de los clientes. Contiene la información del estado, tipo y la documentación necearia.
+
+- **Inmueble**: entidad que representa cada uno de los inmuebles disponibles para la venta. Contiene la información de la dirección, precio, tipos, fotos, habitaciones, superficie, baños, plazas de garaje y si está o no amueblado.
+
+- **Cita**: entidad que representa cada una de las citas escogidas por los usuarios. Contiene la información de la fecha y hora de la cita, el cliente que la selecciona y el tipo de trámite para el que se escoge.
+
+- **Plantilla**: entidad que representa cada una de las diferentes plantillas entre las que el administrativo puede elegir. Contiene la información del tipo de la plantilla y el formato.
+
+- **Documento**: entidad que representa cada uno de los documentos relacionados a un trámite. Pueden ser tanto documentos generados por el administrativos como entregados por el cliente. Contiene la información del cliente al que pertenece y un log de consultas.
+
+- **Visita**: entidad que representa cada una de las visitas programadas por los clientes. Contiene la información de la fecha, el inmueble visitado y el cliente que realiza la visita.
+
+- **Formulario de contacto**: entidad que reperesenta cada uno de los formularios que rellenan los clientes. Contiene la información de la fecha y hora de envío, el mensaje y el cliente que la rellena.
+
+- **Consulta**: entidad que representa cada una de las consultas que realiza un administrativo de documentos sensibles. Contiene la información del administrativo que realiza la consulta y de la fecha en la que se realiza.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
