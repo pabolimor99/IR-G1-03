@@ -8,9 +8,11 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[La navegación comienza en la Página Principal (primera vista), accesible para cualquier tipo de usuario. Desde esta página, se puede acceder a las secciones de Sobre Nosotros, Gestión, y Contacto, así como a la propia Página Principal (Inicio). Estas secciones conforman un menú fijo en la parte superior de la web, permitiendo a los usuarios navegar a ellas en cualquier momento.
 
+En este menú también nos encontramos un desplegable que nos permite cambiar el idioma de la página.
+
 **•Inicio de Sesión y Registro:**
 
-La Página Principal ofrece un enlace a la página de Inicio de Sesión, donde los usuarios que no hayan iniciado sesión pueden hacerlo. Si aún no tienen una cuenta, pueden crear una cuenta de cliente desde esta misma página. Es importante destacar que solo se pueden crear cuentas de cliente; las cuentas de administrador son cuentas predefinidas para mantener un control seguro sobre los usuarios administrativos del sistema.
+La Página Principal ofrece un enlace a la página de Inicio de Sesión, donde los usuarios que no hayan iniciado sesión pueden hacerlo. Si aún no tienen una cuenta, pueden crear una cuenta de cliente desde esta misma página. Es importante destacar que solo se pueden crear cuentas de cliente. Las cuentas de administrativo son cuentas predefinidas para mantener un control seguro sobre los usuarios administrativos del sistema.
 Inmuebles Destacados:
 
 En la Página Principal hay una sección de Inmuebles Destacados. Cada inmueble destacado incluye un botón de “más información” que lleva a la página de Información del Inmueble correspondiente.
@@ -21,7 +23,7 @@ Esta es una página informativa que proporciona detalles sobre la organización 
 
 **•Gestión:**
 
-Al seleccionar la sección Gestión, se despliega un listado de trámites fiscales gestionados por la gestoría. Cada trámite en el listado permite acceder a la página de Información del Trámite, donde se muestra información detallada del trámite seleccionado, así como la documentación requerida para una cita con la gestoría, agilizando el proceso. Desde esta página, los usuarios también pueden solicitar una cita con la gestoría, tras lo cual se les redirige de nuevo a la Página Principal.
+Al seleccionar la sección Gestión, se despliega un listado de servicios fiscales que ofrece la gestoría. Cada servicio en el listado permite acceder a la página de Información del Servicio, donde se muestra información detallada del servicio seleccionado, así como la documentación requerida para una cita con la gestoría, agilizando el proceso. Desde esta página, los usuarios también pueden solicitar una cita con la gestoría, tras lo cual se les redirige de nuevo a la Página Principal, siempre y cuando primero hayan iniciado sesión como clientes.
 
 **•Contacto:**
 
