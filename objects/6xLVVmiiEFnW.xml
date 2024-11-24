@@ -2,7 +2,7 @@
 <object id="6xLVVmiiEFnW" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Listado plantillas]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema muestra un listado de plantillas en función de los trámites que se gestionen en la inmobiliaria y gestoría.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema muestra un listado de plantillas disponibles.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

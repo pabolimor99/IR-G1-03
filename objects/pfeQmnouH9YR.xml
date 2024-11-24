@@ -2,8 +2,7 @@
 <object id="pfeQmnouH9YR" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Datos]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[- Administrador que haya accedido a los datos
-- Log de las modificaciones realizadas]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[- Log de las modificaciones realizadas]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

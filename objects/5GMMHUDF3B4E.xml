@@ -4,12 +4,18 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Datos]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[- Dirección
 - Precio
+- Tipo (ej: chalet, casa de campo,...)
 - Fotos
 - Habitaciones
 - Superficie 
 - Cuartos de baño
-- Plazas de garaje 
-- Amueblado]]></markdownProperty>
+- Fecha de construcción
+- Piscina
+- Garaje
+- Jardín
+- Terraza
+- Trastero
+- Ascensor]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

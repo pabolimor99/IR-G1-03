@@ -2,8 +2,7 @@
 <object id="3tdQ9D72sHRm" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Datos]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[- Cliente
-- Log de accesos]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[- Fecha BackUp]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
