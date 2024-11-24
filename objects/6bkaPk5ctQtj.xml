@@ -8,7 +8,7 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Este actor de negocio representa a una persona resgistrada que quiere solicitar alguna cita para un tramita o visita, o bien contactar con la empresa para vender un inmueble]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Este actor de negocio representa a una persona registrada que quiere solicitar alguna cita para un tramite o visita, o bien contactar con la empresa para vender un inmueble]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

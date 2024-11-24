@@ -2,7 +2,7 @@
 <object id="4TvhA7SsNZNz" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Aceptar visita]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El administrador acepta la visita y se notifica al usuario.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El administrativo acepta la visita y se notifica al usuario.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

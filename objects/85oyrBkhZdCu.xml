@@ -12,10 +12,11 @@ En este menú también nos encontramos un desplegable que nos permite cambiar el
 
 **•Inicio de Sesión y Registro:**
 
-La Página Principal ofrece un enlace a la página de Inicio de Sesión, donde los usuarios que no hayan iniciado sesión pueden hacerlo. Si aún no tienen una cuenta, pueden crear una cuenta de cliente desde esta misma página. Es importante destacar que solo se pueden crear cuentas de cliente. Las cuentas de administrativo son cuentas predefinidas para mantener un control seguro sobre los usuarios administrativos del sistema.
-Inmuebles Destacados:
+La Página Principal ofrece un enlace a la página de Inicio de Sesión, donde los usuarios que no hayan iniciado sesión pueden hacerlo. Si aún no tienen una cuenta, pueden crear una cuenta de cliente desde esta misma página. Es importante destacar que solo pueden crearse cuentas de cliente. Las cuentas de administrativo son cuentas predefinidas para mantener un control seguro sobre los usuarios administrativos del sistema.
 
-En la Página Principal hay una sección de Inmuebles Destacados. Cada inmueble destacado incluye un botón de “más información” que lleva a la página de Información del Inmueble correspondiente.
+**•Inmuebles Destacados:**
+
+En la Página Principal hay una sección de Inmuebles Destacados. Cada inmueble destacado incluye un botón de “Más información” que lleva a la página de Información del Inmueble correspondiente.
 
 **•Sobre Nosotros:**
 
@@ -23,7 +24,7 @@ Esta es una página informativa que proporciona detalles sobre la organización 
 
 **•Gestión:**
 
-Al seleccionar la sección Gestión, se despliega un listado de servicios fiscales que ofrece la gestoría. Cada servicio en el listado permite acceder a la página de Información del Servicio, donde se muestra información detallada del servicio seleccionado, así como la documentación requerida para una cita con la gestoría, agilizando el proceso. Desde esta página, los usuarios también pueden solicitar una cita con la gestoría, tras lo cual se les redirige de nuevo a la Página Principal, siempre y cuando primero hayan iniciado sesión como clientes.
+Al seleccionar la sección Gestión, se despliega un listado de los servicios fiscales que ofrece la gestoría. Cada servicio en el listado permite acceder a la página de Información del Servicio, donde se muestra información detallada del servicio seleccionado, así como la documentación requerida para una cita con la gestoría, agilizando el proceso. Desde esta página, los usuarios también pueden solicitar una cita con la gestoría, tras lo cual se les redirige de nuevo a la Página Principal, siempre y cuando primero hayan iniciado sesión como clientes.
 
 **•Contacto:**
 
