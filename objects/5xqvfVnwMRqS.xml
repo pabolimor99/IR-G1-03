@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5xqvfVnwMRqS" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Navegación de servicios]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema muestra un listado de servicios disponibles (p.ej. escrituras de herencia, compraventa, sucesiones, etc.).]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

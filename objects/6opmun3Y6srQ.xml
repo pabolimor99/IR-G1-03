@@ -2,7 +2,7 @@
 <object id="6opmun3Y6srQ" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Selección inmueble]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El cliente selecciona el inmueble que le interesa.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El cliente navega hasta el listado de inmuebles y selecciona uno de su interés.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

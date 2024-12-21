@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="36uZ63XMhWEk" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Copy of Copy of Navegación]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El cliente entra a su perfil y selecciona “Mis Citas (Gestoría)”.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

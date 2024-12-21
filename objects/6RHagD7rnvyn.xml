@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6RHagD7rnvyn" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Copy of Notificación a administrativo]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[(Opcional) Se emite un recibo o la factura si se requiere.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

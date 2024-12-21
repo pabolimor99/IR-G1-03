@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="39eR4cbKFmCc" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Copy of Copy of Selección]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El cliente localiza la cita con “Pago Adicional Pendiente” y selecciona “Pagar y cerrar trámite”.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

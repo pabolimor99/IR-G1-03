@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="72DkHTyvH8en" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Programar visita]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema muestra un calendario y el cliente programa una visita.]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Navegación]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema muestra la ficha detallada del inmueble, incluyendo la opción de “Quiero Visitarlo”, que permite al cliente navegar al final de la página donde se muestra un calendario.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

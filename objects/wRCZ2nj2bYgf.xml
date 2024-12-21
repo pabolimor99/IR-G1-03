@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="wRCZ2nj2bYgf" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Copy of Copy of Copy of Pasarela]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema internamente calcula la diferencia con respecto a lo que el cliente haya pagado en la provisión de fondos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

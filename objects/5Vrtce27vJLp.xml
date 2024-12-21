@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5Vrtce27vJLp" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Copy of Copy of Copy of Registro]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema, ante un pago exitoso, registra los datos del pago (importe, fecha, método, ID de transacción) y actualiza el estado de la cita a "Liquidado".]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

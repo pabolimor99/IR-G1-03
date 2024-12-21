@@ -8,8 +8,8 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[	]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[El cliente deberá estar registrado.]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Se programa una cita para ver un inmueble.]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[El cliente ha iniciado sesión y el inmueble que desea visitar está disponible.]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Queda programada la visita al inmueble en el horario elegido.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
@@ -24,5 +24,8 @@
     <child id="6opmun3Y6srQ"/>
     <child id="72DkHTyvH8en"/>
     <child id="4TvhA7SsNZNz"/>
+    <child id="7GwgTMPh6yGG"/>
+    <child id="52Vc9ZGBfeBT"/>
+    <child id="6g35YxHq5jUk"/>
   </children>
 </object>

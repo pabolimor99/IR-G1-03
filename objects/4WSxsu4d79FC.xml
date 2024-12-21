@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4WSxsu4d79FC" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Copy of Copy of Copy of Copy of Recibo y notificación]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema notifica al administrativo que el trámite ha sido cerrado.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

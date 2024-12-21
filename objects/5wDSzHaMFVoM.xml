@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5wDSzHaMFVoM" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Pasarela]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El cliente elige pago en línea y se redirige a la pasarela de pago (Stripe, PayPal, etc.) o un formulario seguro con los datos de su tarjeta.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

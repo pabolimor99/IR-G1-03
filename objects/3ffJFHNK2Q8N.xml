@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3ffJFHNK2Q8N" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Copy of Copy of Copy of Copy of Pasarela]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema determina el nuevo estado del trámite según la diferencia: 
+
+- Si diferencia > 0 => "Pago Adicional Pendiente".
+
+- Si diferencia < 0 => "Devolución Pendiente".
+
+- Si diferencia = 0 => "Liquidado".]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
