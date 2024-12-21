@@ -2,7 +2,7 @@
 <object id="4WvQew2CtzRM" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Selección]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El cliente localiza la cita con “Provisión de fondos pendiente” y selecciona “Pagar provisión”.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El cliente localiza y selecciona la cita con el estado “Provisión de fondos pendiente”.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
