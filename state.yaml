@@ -27,7 +27,6 @@ expanded_objects:
   3UD9min5aQi3: false
   3UcHrtqBXUda: true
   3V9VCWNACnar: true
-  3VtReLPkuLvZ: false
   3XrqZsdqDMZZ: true
   3YCcRaY2bbPD: false
   3Z8FY5kJeCmQ: false
@@ -300,7 +299,7 @@ expanded_objects:
   8ep3LYees4Gc: true
   9ksVmTKgUmmt: true
   A4uFs2AGcrBU: false
-  Amm5WooVEfDp: false
+  Amm5WooVEfDp: true
   EjxTenSvjS4Z: true
   HG9dC8dKECBb: true
   HM72LDwNAR8w: true
@@ -362,5 +361,5 @@ opened_views:
 selected_document: ers
 selected_objects:
   das: 3GEWGc2G7MNm
-  ers: dCvhDzNnmk35
+  ers: null
 selected_view: default

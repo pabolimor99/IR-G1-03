@@ -2,7 +2,7 @@
 <object id="3Z8FY5kJeCmQ" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Copy of Copy of Copy of Información de pago]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema muestra el concepto, desglose e importe de la provisión en diferencia con la provisión de fondos.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema muestra el concepto, desglose e importe de la provisión en diferencia con la provisión de fondos, acompañado de un formulario seguro que debe cumplimentarse con los datos del pago.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
